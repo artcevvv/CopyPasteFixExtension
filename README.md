@@ -1,4 +1,4 @@
-# Moodle CopyPaste Fix Extension
+# CopyPaste Fix Extension
 
 This extension enables **right-click** and **copy-paste** functionality in **Moodle** LMS. It allows users to bypass restrictions on right-clicking, copying, cutting, pasting, and selecting text.
 
